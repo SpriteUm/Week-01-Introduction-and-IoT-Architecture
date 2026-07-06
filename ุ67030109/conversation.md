@@ -1,4 +1,4 @@
-Prompt หมวด A — ข้อที่ 1: Introduction to IoT
+#Prompt หมวด A — ข้อที่ 1: Introduction to IoT
 
 คำถาม : “อธิบายว่า Internet of Things (IoT) คืออะไร และยกตัวอย่างระบบ IoT ที่พบในชีวิตประจำวัน พร้อมอธิบายว่าทำไมระบบนั้นจึงถือเป็น IoT”
 
@@ -53,7 +53,7 @@ A-GRADE EFFORT! ถือว่าทำได้ดีมากครับ ค
 
 
 
-Prompt หมวด B — ข้อที่ 1: Internet Layer IoT Network Technologies
+#Prompt หมวด B — ข้อที่ 1: Internet Layer IoT Network Technologies
 
 คำถาม : “อธิบายเทคโนโลยีการสื่อสารในชั้น Internet Layer ที่ใช้ในระบบ IoT เช่น IPv6, 6LoWPAN, RPL  
 พร้อมอธิบายว่าทำไมเทคโนโลยีเหล่านี้จึงเหมาะกับอุปกรณ์ IoT ที่มีข้อจำกัดด้านพลังงานและแบนด์วิธี”
@@ -113,7 +113,7 @@ IPv6: การที่ไม่มี NAT ช่วยให้ตัวอุ
 
 
 
-Prompt หมวด C — ข้อที่ 1: IoT‑System‑Challenges
+#Prompt หมวด C — ข้อที่ 1: IoT‑System‑Challenges
 
 คำถาม:  
 “อธิบายความท้าทายหลักของการสร้างระบบ IoT เช่น ระยะทางในการสื่อสาร, Bandwidth, Power usage, การเชื่อมต่อเครือข่าย, การทำงานร่วมกับระบบอื่น และความปลอดภัย พร้อมยกตัวอย่างสถานการณ์จริงที่แสดงให้เห็นว่าความท้าทายเหล่านี้ส่งผลต่อการออกแบบระบบ IoT อย่างไร”
